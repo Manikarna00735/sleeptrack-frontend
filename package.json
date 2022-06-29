@@ -2,7 +2,7 @@
   "name": "sleeptrack-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8081",
+  "proxy": "https://sleeptracker001.herokuapp.com/",
   "dependencies": {
     "@date-io/date-fns": "^2.14.0",
     "@date-io/dayjs": "^2.14.0",

@@ -13,6 +13,7 @@ import Graph from './Graph';
 import Newentry from './Newentry'
 
 export default function Sleeptracker() {
+    
     const [tableData, setTableData] = useState([]);
     const username = Cookies.get('username');
     
